@@ -25,6 +25,6 @@
 <h4>VG-TVP </h4>
 <p>In this paper, we aim to improve PP by generating multimodal content from different resources, including IVs. We are interested in enhancing human understanding by integrating visually grounded text and action-based video generations. We cast the problem as MPP via Visually Grounded Text-Video Prompting (VG-TVP). VG-TVP generates video-enhanced action and state procedures given text descriptions of a task and IVs, which is in contrast to generating image plans and using their descriptions as text plans.</p>
 
-<img width="1158" alt="Model_idea1" src="https://github.com/mfurkanilaslan/GazeVQA/assets/70204805/01f7ff19-aab3-4894-99c5-c1fc0c287d96](https://github.com/mfurkanilaslan/VG-TVP/blob/dc9feae5282f2cb51ef7296bf59d9c98d5d7beb6/Model_idea1.pdf">
+<img width="1158" alt="Model_idea1" src="https://github.com/user-attachments/files/18196066/Model_idea1.pdf">
 
 <p>Figure 1: VG-TVP Model: Given the textual input and multiple instructional videos, VG-TVP generates visually grounded textual plans and video plans by using V2T-B and T2V-B. ChatGPT 3.5 is used to reorganize all captions to generate FoC.</p>
